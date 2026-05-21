@@ -42,7 +42,7 @@ Tools       : Jupyter Notebook, Git, GitHub, VS Code
 - Real-time churn probability prediction
 - Feature Importance analysis
 
-🔗 [View Project](https://github.com/Gauravlad15/customer-churn-prediction)
+🔗 [View Project](https://github.com/Gauravlad15/Ml-Projects/tree/main/Classification)
 
 ---
 
@@ -61,7 +61,7 @@ Tools       : Jupyter Notebook, Git, GitHub, VS Code
 - Identified GDP, Adult Mortality as top predictors
 - Model comparison using MSE and R2 Score
 
-🔗 [View Project](https://github.com/Gauravlad15/life-expectancy-prediction)
+🔗 [View Project](https://github.com/Gauravlad15/Ml-Projects/tree/main/Regression)
 
 ---
 
