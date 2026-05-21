@@ -65,15 +65,11 @@ Tools       : Jupyter Notebook, Git, GitHub, VS Code
 
 ---
 
-## 📈 GitHub Stats
-
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gauravlad15&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-lad-354b343b2)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gauravlad15)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ladgaurav455@gmail.com)
+
+
 
